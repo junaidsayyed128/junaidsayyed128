@@ -29,7 +29,7 @@ I work with SQL, Python, Excel and Power BI to explore datasets, build dashboard
 
 ## 🚀 Featured Projects
 
-### 🏏 IPL 2025 Analysis — Power BI Dashboard
+### 🏏 [IPL 2025 Analysis — Power BI Dashboard](https://github.com/junaidsayyed128/IPL-2025-Power-BI-Dashboard)
 - Built an interactive dashboard using IPL 2025 data.
 - Analysed 10 teams, 156 batters and 108 bowlers.
 - Cleaned and transformed five datasets using Power Query.
